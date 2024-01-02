@@ -39,11 +39,7 @@ The `main()` function serves as the driver function for the poker simulation. It
 - OpenMP parallelization is employed to run multiple simulations concurrently.
 - The code focuses on simulating and evaluating poker hands using a deck of cards and specified player entries.
 
-### Future Improvements:
-- Refactoring redundant or obsolete functions.
-- Enhancing error handling and user inputs.
-- Optimizing performance for larger simulations.
-  
+
 This documentation outlines the functionality and structure of the `poker_sim.cpp` file, highlighting its key components and functionalities for simulating poker games.
 
 Video below demonstrates program usage and speed comparison between sequential and parallel versions.
